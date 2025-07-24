@@ -1,7 +1,7 @@
 # Engine-for-Startup
 It aims to match founders with ideal service providers using a two-sided recommendation system powered by matching logic and explainable scoring.
 
-  You can view all in one Dashboard 
+  You can view all in one Live Dashboard 
   --> https://engine-for-startup-matching.streamlit.app/
 
   
